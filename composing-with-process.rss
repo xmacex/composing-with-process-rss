@@ -9,16 +9,14 @@
      >
 
   <channel>
-    <title>Composing with Process</title>
-    <link>https://www.w3schools.com</link>
-    <!-- <atom:link href="https://rwm.macba.cat/en/taxonomy_serie_podcast/composing-with-process/feed/" rel="self" type="application/rss+xml" /> -->
+    <title>Composing with Process. Perspectives on Generative and Systems Music</title>
     <link>https://rwm.macba.cat/en/taxonomy_serie_podcast/composing-with-process/</link>
     <language>en</language>
     <copyright>Mark Fell, Joe Gilmore and MACBA</copyright>
     <description>Curated by Mark Fell and Joe Gilmore. Narrated by Connie Treanor. Each episode of this  series is followed by a special accompaniment programme of exclusive music by some of the leading sound artists and composers working in the field. This show presents two pieces by Goodiepal or Gæoudjiparl van den Dobbelsteen, whose real name is Parl Kristian Bjørn Vester.</description>
 
     <item>
-      <title>Perspectives on Generative and Systems Music #9.1. Two Discrete Generative Systems</title>
+      <title>#9.1. Two Discrete Generative Systems</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-9-1-two-discrete-generative-systems/</link>
       <pubDate>Mon, 06 Jun 2013 00:00:00 +0000</pubDate>
       <description>Mark Fell and Joe Gilmore wrap up this series on generative and process music with a piece created specifically for the occasion: 'Two Discrete Generative Systems'.</description>
@@ -33,7 +31,7 @@
     </item>
 
     <item>
-      <title>Perspectives on Generative and Systems Music #8.1. Models of Change</title>
+      <title>#8.1. Models of Change</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-8-1-models-of-change/</link>
       <pubDate>Mon, 24 Oct 2012 00:00:00 +0000</pubDate>
       <description>This episode considers the notion of change in music. It looks at how scientific and mathematical concepts can be used to model change in the acoustic domain.</description>
@@ -43,7 +41,7 @@
     </item>
 
     <item>
-      <title>Perspectives on Generative and Systems Music #8.1. Models of Change</title>
+      <title>#8.1. Models of Change</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-8-1-models-of-change/</link>
       <pubDate>Mon, 23 Oct 2012 00:00:00 +0000</pubDate>
       <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #8.1.</description>
@@ -53,8 +51,7 @@
     </item>
 
     <item>
-      <title>COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #7.2
-      Exclusives</title>
+      <title>#7.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-7-2-exclusives/</link>
       <pubDate>Mon, 09 Sep 2012 00:00:00 +0000</pubDate>
       <description>Two exclusive works-interviews by Goodiepal.</description>
@@ -63,8 +60,7 @@
     </item>
 
     <item>
-      <title>COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #7.1
-      Transcript</title>
+      <title>#7.1 Transcript</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-7-1-transcript/</link>
       <pubDate>Mon, 17 Aug 2012 00:00:00 +0000</pubDate>
       <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #7.1., curated by Mark Fell and Joe Gilmore.</description>
@@ -74,8 +70,7 @@
     </item>
 
     <item>
-      <title>COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #7.1
-      Approaches to change</title>
+      <title>#7.1 Approaches to change</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-7-1-approaches-to-change/</link>
       <pubDate>Mon, 09 Aug 2012 00:00:00 +0000</pubDate>
       <description>This episode considers the notion of change in music. It asks how we perceive and quantify change in musical structures, and how generative processes disrupt and enlarge our sense of surprise, expectation, tension and boredom.</description>
@@ -85,8 +80,7 @@
     </item>
 
     <item>
-      <title>COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #6.2
-      Exclusives</title>
+      <title>#6.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-6-2-exclusives/</link>
       <pubDate>Mon, 09 May 2012 00:00:00 +0000</pubDate>
       <description>Exclusive music by Stephan Mathieu and Russell Haswell.</description>
@@ -95,7 +89,7 @@
     </item>
 
     <item>
-      <title>COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #6.1 Transcript</title>
+      <title>#6.1 Transcript</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-6-1-transcript/</link>
       <pubDate>Mon, 12 Apr 2012 00:00:00 +0000</pubDate>
       <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #6.1., curated by Mark Fell and Joe Gilmore.</description>
@@ -104,7 +98,7 @@
     </item>
 
     <item>
-      <title>COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #6.1 Space</title>
+      <title>#6.1 Space</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-6-1-space/</link>
       <pubDate>Mon, 28 Mar 2012 00:00:00 +0000</pubDate>
       <description>This episode explores sound in relation to space. It considers various ways in which composers have utilised acoustic space as an active element in the process of music composition.</description>
