@@ -16,6 +16,6 @@ I didn't do any of this, but I am just compiling an RSS for my own re(re(re))lis
 8. Models of Change
 9. Two Discrete Generative Systems
 
-In addition to the main piece, each episode has a PDF transcript andmany an exclusive. I recommend downloading everything just in case this valuable thing goes into bit heaven, and printing the transcripts for study.
+In addition to the main piece, each episode has a PDF transcript andmany an exclusive. I recommend downloading everything using the provided Python program `download.py` or manually in the case this valuable thing goes into bit heaven, and printing the transcripts for study.
 
 ![](composing-with-process-printouts.gif)
