@@ -20,6 +20,7 @@
     </image>
     <description>Curated by Mark Fell and Joe Gilmore. Narrated by Connie Treanor. Each episode of this  series is followed by a special accompaniment programme of exclusive music by some of the leading sound artists and composers working in the field. This show presents two pieces by Goodiepal or Gæoudjiparl van den Dobbelsteen, whose real name is Parl Kristian Bjørn Vester.</description>
 
+    <!-- #9 -->
     <item>
       <title>#9.1. Two Discrete Generative Systems</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-9-1-two-discrete-generative-systems/</link>
@@ -35,6 +36,7 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_09_01-3.mp3" type="audio/mpeg" />
     </item>
 
+    <!-- #8 -->
     <item>
       <title>#8.1. Models of Change</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-8-1-models-of-change/</link>
@@ -55,6 +57,7 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess8_transcript_eng-3.pdf" type="application/pdf" />
     </item>
 
+    <!-- #7 -->
     <item>
       <title>#7.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-7-2-exclusives/</link>
@@ -84,6 +87,7 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_07_01-3.mp3" type="audio/mpeg" />
     </item>
 
+    <!-- #6 -->
     <item>
       <title>#6.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-6-2-exclusives/</link>
@@ -114,6 +118,7 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_06_01-3.mp3" type="audio/mpeg" />
     </item>
 
+    <!-- #5 -->
     <item>
       <title>#5.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-5-2-exclusives/</link>
@@ -144,15 +149,7 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_05_01-3.mp3" type="audio/mpeg" />
     </item>
 
-    <item>
-      <title>#4.1 Transcript</title>
-      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-4-1-transcript/</link>
-      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
-      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #4.1., curated by Mark Fell and Joe Gilmore.</description>
-      <content:encoded><![CDATA[<p>The fourth episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC introduces the idea of time and its relationship to musical practices. The show opens with thoughts about time drawn from philosophy, science and musicology and shows how these are expressed in musical form, and looks at the origins of sonic action, musical behaviors and notational systems as a way of engaging with the temporal realm.</p>]]></content:encoded>
-      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess4_transcript_eng-3.pdf" type="application/pdf" />
-    </item>
-
+    <!-- #4 -->
     <item>
       <title>#4.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-4-2-exclusives/</link>
@@ -163,13 +160,12 @@
     </item>
 
     <item>
-      <title>#3.1 Transcript</title>
-      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-3-1-transcript/</link>
-      <pubDate>Mon, 08 Sep 2011 00:00:00 +0000</pubDate>
-      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #3.1., curated by Mark Fell and Joe Gilmore.</description>
-      <content:encoded><![CDATA[<p>The third episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC  examines the use of determinacy and indeterminacy in music. It looks at how chance has been used in a variety of ways in the composition and performance of musical works – from works derived from the tossing of coins, to more rigorous explorations of the laws governing probability. The programme also looks at the use of chance in the visual arts and literature, and changing approaches to science during the twentieth century, describing the impact of these disciplines upon music making.</p>
-      <p>It investigates concepts and ideas behind these works with reference to works drawn from different traditions.</p>]]></content:encoded>
-      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess3_transcript_eng-3.pdf" type="application/pdf" />
+      <title>#4.1 Transcript</title>
+      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-4-1-transcript/</link>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
+      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #4.1., curated by Mark Fell and Joe Gilmore.</description>
+      <content:encoded><![CDATA[<p>The fourth episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC introduces the idea of time and its relationship to musical practices. The show opens with thoughts about time drawn from philosophy, science and musicology and shows how these are expressed in musical form, and looks at the origins of sonic action, musical behaviors and notational systems as a way of engaging with the temporal realm.</p>]]></content:encoded>
+      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess4_transcript_eng-3.pdf" type="application/pdf" />
     </item>
 
     <item>
@@ -183,25 +179,7 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_04_01-3.mp3" type="audio/mpeg" />
     </item>
 
-    <item>
-      <title>#2.1 Transcript</title>
-      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-2-1-transcript/</link>
-      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
-      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #2.1., curated by Mark Fell and Joe Gilmore.</description>
-      <content:encoded><![CDATA[<p>The second episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC looks at the use of formal systems in the composition and performance of musical works. It explains the diversity of approaches to musical systems using a range of technologies and processes.</p>
-      <p>The episode asks how we might distinguish systems based procedures in music to other musical activities, and makes reference to technological development and implementation, structural complexity, and relationships to other musical traditions. We compare three tape-based approaches to composition that explore sound as a temporal and spatial phenomenon and refer to theoretical positions offered by notable artists working in this field.</p>]]></content:encoded>
-      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess2_transcript_eng-3.pdf" type="application/pdf" />
-    </item>
-
-    <item>
-      <title>#1.1 Transcript</title>
-      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-1-1-transcript/</link>
-      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
-      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #1.1., curated by Mark Fell and Joe Gilmore.</description>
-      <content:encoded><![CDATA[<p>The first episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC investigates how music can be generated using a wide range of techniques. These range from very simple procedural systems, such as Mika Vainio’s ‘Twin Bleebs’ which features two repeating events going in and out of phase, to David Tudor’s ‘Neural Synthesis No.9’ – a more complex electronic system which explores indeterminacy through the emulation of neural activity. The programme also looks at music which has been composed using formal geometric and mathematical rules, for example: Martin Neukom’s ‘Studie 18′ and Thomas Brinkmann’s ’27 Fibonacci Numbers in a Binary Chain’.</p>]]></content:encoded>
-      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess1_transcript_eng-3.pdf" type="application/pdf" />
-    </item>
-
+    <!-- #3 -->
     <item>
       <title>#3.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-3-2-exclusives/</link>
@@ -212,13 +190,13 @@
     </item>
 
     <item>
-      <title>Son[i]a #125. Mark Fell and Joe Gilmore</title>
-      <link>https://rwm.macba.cat/en/podcasts/sonia-125-mark-fell-and-joe-gilmore/</link>
-      <pubDate>Mon, 28 Apr 2011 00:00:00 +0000</pubDate>
-      <description>Sound artists and curators Mark Fell and Joe Gilmore talk about minimalism, complexity, abstraction and the processes and concepts behind their audiovisual works.</description>
-      <content:encoded><![CDATA[<p>In their respective works, British artists Mark Fell and Joe Gilmore esplore the possibilities of algorithmic processes applied to the creation of music, graphics and installations. Fell and Gilmore are also the curators of the Ràdio Web MACBA program COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC, which recounts the story of generative music from different perspectives.</p>
-      <p>Son[i]a talks to Mark Fell and Joe Gilmore about minimalism, complexity, abstraction and the processes and concepts behind their audiovisual works.</p>]]></content:encoded>
-      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/sonia125_28042011_96-3.mp3" type="audio/mpeg" />
+      <title>#3.1 Transcript</title>
+      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-3-1-transcript/</link>
+      <pubDate>Mon, 08 Sep 2011 00:00:00 +0000</pubDate>
+      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #3.1., curated by Mark Fell and Joe Gilmore.</description>
+      <content:encoded><![CDATA[<p>The third episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC  examines the use of determinacy and indeterminacy in music. It looks at how chance has been used in a variety of ways in the composition and performance of musical works – from works derived from the tossing of coins, to more rigorous explorations of the laws governing probability. The programme also looks at the use of chance in the visual arts and literature, and changing approaches to science during the twentieth century, describing the impact of these disciplines upon music making.</p>
+      <p>It investigates concepts and ideas behind these works with reference to works drawn from different traditions.</p>]]></content:encoded>
+      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess3_transcript_eng-3.pdf" type="application/pdf" />
     </item>
 
     <item>
@@ -231,6 +209,18 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_03_01-3.mp3" type="audio/mpeg" />
     </item>
 
+    <!-- Son[i]a #125 -->
+    <item>
+      <title>Son[i]a #125. Mark Fell and Joe Gilmore</title>
+      <link>https://rwm.macba.cat/en/podcasts/sonia-125-mark-fell-and-joe-gilmore/</link>
+      <pubDate>Mon, 28 Apr 2011 00:00:00 +0000</pubDate>
+      <description>Sound artists and curators Mark Fell and Joe Gilmore talk about minimalism, complexity, abstraction and the processes and concepts behind their audiovisual works.</description>
+      <content:encoded><![CDATA[<p>In their respective works, British artists Mark Fell and Joe Gilmore esplore the possibilities of algorithmic processes applied to the creation of music, graphics and installations. Fell and Gilmore are also the curators of the Ràdio Web MACBA program COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC, which recounts the story of generative music from different perspectives.</p>
+      <p>Son[i]a talks to Mark Fell and Joe Gilmore about minimalism, complexity, abstraction and the processes and concepts behind their audiovisual works.</p>]]></content:encoded>
+      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/sonia125_28042011_96-3.mp3" type="audio/mpeg" />
+    </item>
+
+    <!-- #2 -->
     <item>
       <title>#2.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-2-2-exclusives/</link>
@@ -238,6 +228,16 @@
       <description>Exclusive music by Marcus Schmickler and EVOL.</description>
       <content:encoded><![CDATA[<p>Each episode of this series is followed by a special accompaniment programme of exclusive music by some of the leading sound artists and composers working in the field. This show presents two contrasting generative works by German composer Marcus Schmickler and Catalan collective EVOL.</p>]]></content:encoded>
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_02_02_exclusives-3.mp3" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>#2.1 Transcript</title>
+      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-2-1-transcript/</link>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #2.1., curated by Mark Fell and Joe Gilmore.</description>
+      <content:encoded><![CDATA[<p>The second episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC looks at the use of formal systems in the composition and performance of musical works. It explains the diversity of approaches to musical systems using a range of technologies and processes.</p>
+      <p>The episode asks how we might distinguish systems based procedures in music to other musical activities, and makes reference to technological development and implementation, structural complexity, and relationships to other musical traditions. We compare three tape-based approaches to composition that explore sound as a temporal and spatial phenomenon and refer to theoretical positions offered by notable artists working in this field.</p>]]></content:encoded>
+      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess2_transcript_eng-3.pdf" type="application/pdf" />
     </item>
 
     <item>
@@ -251,6 +251,7 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_02_01-3.mp3" type="audio/mpeg" />
     </item>
 
+    <!-- #1 -->
     <item>
       <title>#1.2 Exclusives</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-1-2-exclusives/</link>
@@ -260,6 +261,15 @@
       <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/cwp_01_02_exclusives-3.mp3" type="audio/mpeg" />
     </item>
 
+    <item>
+      <title>#1.1 Transcript</title>
+      <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-1-1-transcript/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      <description>Transcript of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC #1.1., curated by Mark Fell and Joe Gilmore.</description>
+      <content:encoded><![CDATA[<p>The first episode of COMPOSING WITH PROCESS: PERSPECTIVES ON GENERATIVE AND SYSTEMS MUSIC investigates how music can be generated using a wide range of techniques. These range from very simple procedural systems, such as Mika Vainio’s ‘Twin Bleebs’ which features two repeating events going in and out of phase, to David Tudor’s ‘Neural Synthesis No.9’ – a more complex electronic system which explores indeterminacy through the emulation of neural activity. The programme also looks at music which has been composed using formal geometric and mathematical rules, for example: Martin Neukom’s ‘Studie 18′ and Thomas Brinkmann’s ’27 Fibonacci Numbers in a Binary Chain’.</p>]]></content:encoded>
+      <enclosure url="https://img.macba.cat/wp-content/uploads/2024/03/Composingwithprocess1_transcript_eng-3.pdf" type="application/pdf" />
+    </item>
+    
     <item>
       <title>#1.1 Continue</title>
       <link>https://rwm.macba.cat/en/podcasts/composing-with-process-perspectives-on-generative-and-systems-music-1-1-continue/</link>
